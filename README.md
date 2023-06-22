@@ -1,3 +1,10 @@
+
+
+# Changes to the orignal Tutorials
+1. This repository is working to make the [TrackML dataset from Kaggle](https://www.kaggle.com/competitions/trackml-particle-identification/data) compatiable with these tutotrial.
+2. Currently tutorial 1 has passed.
+3. Please also using this repository of [gnn_tracking](https://github.com/walkieq/gnn_tracking)
+
 <div align="center">
 
 # GNN Tracking Tutorials
